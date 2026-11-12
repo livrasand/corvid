@@ -123,3 +123,17 @@ Type check:
 ```bash
 npm run typecheck
 ```
+
+## Purpose and Philosophy
+
+Corvid is an educational and experimental project built with one primary purpose: to study, understand, and learn how artificial intelligence works from the inside out.
+
+Rather than relying entirely on existing frameworks, architectures, or high-level abstractions, this project is an opportunity to explore the fundamental mechanisms behind language models, understand their capabilities and limitations, and experiment with different approaches to building and training AI systems.
+
+An important part of this journey is exploring technologies and concepts beyond the traditional Python-based AI ecosystem. Corvid is primarily developed in TypeScript, using TensorFlow.js and Node.js, as a way to investigate alternative environments, implementations, and possibilities.
+
+**Corvid is not built with commercial adoption, widespread usage, or practical impact as its primary objective.** It is not intended to compete with established AI models or promise production-level capabilities.
+
+Its value lies in the process itself: experimenting, making mistakes, understanding the mathematics and engineering behind neural networks, exploring architectural decisions, and developing practical knowledge through hands-on experience.
+
+Ultimately, Corvid is a personal learning and research project that contributes to my growth as a software engineer and to my understanding of artificial intelligence through direct experimentation.
