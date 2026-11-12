@@ -1,0 +1,20 @@
+
+{
+  "model": {
+    "vocabSize": 4096,
+    "maxSeqLen": 512,
+    "dModel": 512,
+    "nHeads": 8,
+    "nLayers": 12,
+    "dFF": 2048,
+    "dropout": 0.1,
+    "tieEmbeddings": true
+  },
+  "training": {
+    "batchSize": 32,
+    "learningRate": 0.0003,
+    "weightDecay": 0.01,
+    "epochs": 3,
+    "seed": 42
+  }
+}
