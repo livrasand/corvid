@@ -2,7 +2,7 @@
 
 <img src="logo.svg" alt="Corvid logo" width="64" height="64">
 
-Lightweight, open-source specialized language model. Trained to write commit messages in software forges.
+Lightweight, open-source specialized language models. 
 
 ---
 
@@ -22,7 +22,7 @@ Specialized intelligence for a specific purpose.
 
 **Jackdaw XXS**
 
-Trained to write commit messages in software forges.
+Trained to write commit messages.
 
 | Property | Value |
 | --- | --- |
@@ -123,9 +123,3 @@ Type check:
 ```bash
 npm run typecheck
 ```
-
----
-
-## License
-
-[MIT](LICENSE)
